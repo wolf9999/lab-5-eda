@@ -1,0 +1,8 @@
+environment.txt
+
+pytest
+pandas
+matplotlib
+seaborn
+ipykernel
+notebook
